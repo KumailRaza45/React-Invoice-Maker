@@ -1,9 +1,6 @@
 
 # 🧾 React Invoice Maker
 
-![React](https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 A sleek and responsive Invoice Generator built with **React** and **Tailwind CSS**. Easily add items, manage quantities, apply tax and discount rates, and generate beautiful PDF invoices for download and print. Ideal for freelancers, small businesses, and developers looking to simplify invoice creation.
 
 ---
