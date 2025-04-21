@@ -36,7 +36,7 @@ A sleek and responsive Invoice Generator built with **React** and **Tailwind CSS
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/react-invoice-maker.git
+git clone https://github.com/KumailRaza45/react-invoice-maker.git
 
 # Navigate to project directory
 cd react-invoice-maker
